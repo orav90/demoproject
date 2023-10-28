@@ -12,6 +12,7 @@ The main objective of this project is to efficiently perform external sorting on
 By breaking down the sorting process into smaller, manageable chunks and effectively merging the sorted results, this method allows for the sorting of large files while operating within the constraints of limited available memory.
 
 Complexity
+
 O(n) - reading from large file
 
 n/x * xlogx - sorting
